@@ -1,4 +1,6 @@
-Primary Keys: BIGINT vs UUID
+# Primarily
+
+## Primary Keys: BIGINT vs UUID
 
 Primary keys come in two flavors: a uniquely incrementing value, or a
 randomly generated value that needs to be unique. The benefits are

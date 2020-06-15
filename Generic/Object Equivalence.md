@@ -1,4 +1,6 @@
-Memoized hash vs full comparison
+# Object Equivalence
+
+## Memoized hash vs full comparison
 
 How can you tell when two objects are equal? Simply just compare all
 their values.

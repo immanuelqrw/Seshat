@@ -1,1 +1,3 @@
-When DRY isn't recommended
+# Repeat after me
+
+## When DRY isn't recommended

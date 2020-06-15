@@ -1,4 +1,4 @@
-No to ORMs
+# No to ORMs
 
 ORMs are a saving grace to Software Engineers. They bridge the gap
 between one's proglang of choice and the RDBMS they've implemented (or

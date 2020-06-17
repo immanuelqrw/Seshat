@@ -10,7 +10,7 @@ Python has 4 different methods of string formaatting, each one with their own be
 
 ## Template
 
-## String.format
+## str.format
 
 ## F-String
 

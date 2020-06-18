@@ -8,5 +8,6 @@ bio: Software Engineer
 github_username: immanuelqrw
 twitter_username: immanuelqrw
 medium_username: ImmanuelQRW
+linkedin_username: iqrwashington
 ---
 

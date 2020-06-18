@@ -47,7 +47,7 @@ url: "https://blog.immanuelqrw.dev"
 
 # Build settings
 markdown: kramdown
-theme: jekflix
+remote_theme: thiagorossener/jekflix-template
 highlighter: rouge
 permalink: /:title/
 collections:
